@@ -1,0 +1,3 @@
+"id","bedrooms","bathrooms","parkingSpots","area","hasBalcony","hasGardenYard","hasSwimmingPool","propertyId"
+1,3,2,1,120,True,False,True,8
+2,1,12,0,20,False,False,False,9
